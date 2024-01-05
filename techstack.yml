@@ -2,7 +2,7 @@ repo_name: subho951m/openastronomy.github.io
 report_id: b01f29417e5f692dd871e734aacfe108
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-24T08:31:03+00:00'
+timestamp: '2024-01-05T08:16:27+00:00'
 requested_by: bsipocz
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/subho951m/openastronomy.github.io
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/subho951m/openastronomy.github.io
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/subho951m/openastronomy.github.io
   detection_source: Repo Metadata
 - name: CircleCI
   description: Automate your development process quickly, safely, and at scale
@@ -45,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/subho951m/openastronomy.github.io/blob/master/.circleci/config.yml
   detection_source: ".circleci/config.yml"
   last_updated_by: David Pérez-Suárez
   last_updated_on: 2020-03-12 18:06:36.000000000 Z
@@ -56,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/subho951m/openastronomy.github.io
   detection_source: Repo Metadata
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
@@ -65,6 +70,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/subho951m/openastronomy.github.io/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: DavidPS
   last_updated_on: 2015-02-18 18:14:24.000000000 Z
@@ -77,6 +83,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/subho951m/openastronomy.github.io/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Erik Tollerud
   last_updated_on: 2018-02-08 20:52:15.000000000 Z
@@ -89,6 +96,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19495/default_8a79db3626c57c6bb46227c448ffd01861613398.png
+  detection_source_url: https://github.com/subho951m/openastronomy.github.io/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: David Pérez-Suárez
   last_updated_on: 2019-01-05 19:00:27.000000000 Z
